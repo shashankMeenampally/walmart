@@ -1,0 +1,3 @@
+[submodule "walmart"]
+	path = walmart
+	url = git@github.com:shashankMeenampally/walmart.git
